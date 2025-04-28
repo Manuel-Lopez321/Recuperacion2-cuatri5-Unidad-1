@@ -25,9 +25,9 @@
 
 
 ## Actividad 2:
-### Video: https://drive.google.com/file/d/1ug7zzrynpR7b1BlnTG7wMpkUOM8vEYDM/view?usp=sharing
+### Video: https://drive.google.com/file/d/12mVQTRzmCodCV947_pN7ZF3cNjLUA-kx/view?usp=drivesdk
 ### Diagrama:
-<img src="https://i.postimg.cc/YSts8hc8/Diagrama-actividad-2.jpg" width="250"/>
+<img src="https://i.postimg.cc/zGn4V4Ym/circuit-image-1.png" width="250"/>
 
 
 ## Actividad 3:
